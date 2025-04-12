@@ -26,9 +26,7 @@ const contacts = [
     link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
   },
   {
-    Comp: Envelope,
-    alt: 'envelope icon',
-    link: 'mailto:jj@jjsweb.site?subject=Notion Blog',
+    <p>coff33b1@gmail.com</p>
   },
 ]
 
@@ -44,8 +42,7 @@ export default function Contact() {
         <h1 style={{ marginTop: 0 }}>Contact</h1>
 
         <div className={contactStyles.name}>
-          JJ Kasper - Next.js Engineer @{' '}
-          <ExtLink href="https://vercel.com">Vercel</ExtLink>
+          coffeebone - Freelance designer & developer
         </div>
 
         <div className={contactStyles.links}>
