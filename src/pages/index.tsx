@@ -24,8 +24,6 @@ export default function Index() {
           커피본의 블로그
         </h2>
 
-        <Features />
-
         <div className="explanation">
           <p>
             아직 개잘중인 블로그 입니다!
