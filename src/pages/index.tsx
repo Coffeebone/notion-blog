@@ -12,13 +12,13 @@ export default function Index() {
           src="RHc.svg"
           height="85"
           width="250"
-          alt="Vercel + Notion"
+          alt="Logo"
         />
         <img
-          src=Coffeebone.svg"
+          src="Coffeebone.svg"
           height="85"
           width="250"
-          alt="Vercel + Notion"
+          alt="name"
         />
         <h1>Coffeebone</h1>
         <h2>
