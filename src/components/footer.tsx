@@ -10,7 +10,7 @@ export default function Footer() {
           style={{
             border: '0', // iframe 테두리 제거
             width: '210px', // 위젯의 기본 너비 (필요시 조절)
-            height: '50px', // 위젯의 기본 높이 (필요시 조절)
+            height: '100px', // 위젯의 기본 높이 (필요시 조절)
             display: 'block', // 가운데 정렬 등을 위해 block 요소로 만듬 (선택사항)
             margin: '0 auto'   // 위젯을 가운데 정렬 (선택사항, 원치 않으면 제거)
           }}
