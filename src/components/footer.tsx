@@ -15,7 +15,7 @@ export default function Footer() {
         </ExtLink>
         <span>
           or{' '}
-          <ExtLink href="https://github.com/ijjk/notion-blog">
+          <ExtLink href="https://buymeacoffee.com/coffeebone">
             view source
           </ExtLink>
         </span>
