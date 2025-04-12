@@ -7,10 +7,10 @@ export default function Footer() {
         <span>후원해주세요!</span>
         <ExtLink href="https://buymeacoffee.com/coffeebone">
           <img
-            src="https://vercel.com/button"
+            src="https://indify.co/widgets/live/button/GSUUhCgQrbSjtyf0ObVa"
             height={46}
             width={132}
-            alt="deploy to Vercel button"
+            alt="buy me a coffee!"
           />
         </ExtLink>
         <span>
