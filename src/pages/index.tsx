@@ -14,6 +14,12 @@ export default function Index() {
           width="250"
           alt="Vercel + Notion"
         />
+        <img
+          src=Coffeebone.svg"
+          height="85"
+          width="250"
+          alt="Vercel + Notion"
+        />
         <h1>Coffeebone</h1>
         <h2>
           커피본의 블로그
