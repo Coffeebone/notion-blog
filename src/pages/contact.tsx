@@ -36,7 +36,7 @@ export default function Contact() {
       <Header titlePre="Contact" />
       <div className={sharedStyles.layout}>
         <div className={contactStyles.avatar}>
-          <img src="/avatar.png" alt="avatar with letters JJ" height={60} />
+          <img src="아르케 플록스.svg" alt="avatar with letters JJ" height={60} />
         </div>
 
         <h1 style={{ marginTop: 0 }}>Contact</h1>
