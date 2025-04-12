@@ -11,24 +11,23 @@ export default function Index() {
           src="RHc.svg"
           height="85"
           width="250"
-          alt="Logo"
+          alt="Coffeebone Logo"
         />
         <img
           src="Coffeebone.svg"
           height="85"
           width="250"
-          alt="name"
+          alt="Coffeebone"
         />
-        <h1>Coffeebone</h1>
         <h2>
           커피본의 블로그
         </h2>
 
         <div className="explanation">
-          <p>
-            아직 개잘중인 블로그 입니다!
-            만드는 과정을 아티클로 써보려고 합니다!
-          </p>
+          <pre> 
+            취미로 개잘중인 블로그 입니다!
+            이것저것을 아티클로 써보려고 합니다!
+          </pre>
         </div>
       </div>
     </>
