@@ -26,7 +26,9 @@ const contacts = [
     link: 'https://www.linkedin.com/in/jj-kasper-0b5392166/',
   },
   {
-    <p>coff33b1@gmail.com</p>
+    Comp: Envelope,
+    alt: 'envelope icon',
+    link: 'mailto:coff33b1@gmail.com,
   },
 ]
 
