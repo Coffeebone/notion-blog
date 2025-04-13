@@ -28,7 +28,7 @@ const contacts = [
   {
     Comp: Envelope,
     alt: 'envelope icon',
-    link: 'mailto:coff33b1@gmail.com,
+    link: 'mailto:coff33b1@gmail.com',
   },
 ]
 
@@ -38,7 +38,7 @@ export default function Contact() {
       <Header titlePre="Contact" />
       <div className={sharedStyles.layout}>
         <div className={contactStyles.avatar}>
-          <img src="아르케 플록스.svg" alt="avatar with letters JJ" height={60} />
+          <img src="Contact-ARC.svg" alt="avatar with letters JJ" height={60} />
         </div>
 
         <h1 style={{ marginTop: 0 }}>Contact</h1>
